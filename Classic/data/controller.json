@@ -1,0 +1,533 @@
+{
+  "latest_version": 530,
+  "registers": [
+    {
+      "address": 4,
+      "value": 1152
+    },
+    {
+      "address": 5,
+      "value": 2
+    },
+    {
+      "address": 7,
+      "value": 2253
+    },
+    {
+      "address": 8,
+      "value": 1200
+    },
+    {
+      "address": 9,
+      "value": 28672
+    },
+    {
+      "address": 10,
+      "value": 0
+    },
+    {
+      "address": 11,
+      "value": 2
+    },
+    {
+      "address": 32,
+      "value": 0
+    },
+    {
+      "address": 49,
+      "value": 0
+    },
+    {
+      "address": 51,
+      "value": 0
+    },
+    {
+      "address": 52,
+      "value": 700
+    },
+    {
+      "address": 53,
+      "value": 5120
+    },
+    {
+      "address": 63,
+      "value": 0
+    },
+    {
+      "address": 69,
+      "value": 0
+    },
+    {
+      "address": 70,
+      "value": 36
+    },
+    {
+      "address": 71,
+      "value": 50
+    },
+    {
+      "address": 73,
+      "value": 450
+    },
+    {
+      "address": 77,
+      "value": 1
+    },
+    {
+      "address": 78,
+      "value": 7
+    },
+    {
+      "address": 88,
+      "value": 28
+    },
+    {
+      "address": 89,
+      "value": 64
+    },
+    {
+      "address": 90,
+      "value": 75
+    },
+    {
+      "address": 91,
+      "value": 72
+    },
+    {
+      "address": 92,
+      "value": 75
+    },
+    {
+      "address": 93,
+      "value": 5695
+    },
+    {
+      "address": 94,
+      "value": 3522
+    },
+    {
+      "address": 95,
+      "value": 2068
+    },
+    {
+      "address": 96,
+      "value": 1191
+    },
+    {
+      "address": 97,
+      "value": 711
+    },
+    {
+      "address": 98,
+      "value": 347
+    },
+    {
+      "address": 106,
+      "value": 2048
+    },
+    {
+      "address": 107,
+      "value": 200
+    },
+    {
+      "address": 108,
+      "value": 20
+    },
+    {
+      "address": 109,
+      "value": 1500
+    },
+    {
+      "address": 110,
+      "value": 15
+    },
+    {
+      "address": 115,
+      "value": 0
+    },
+    {
+      "address": 119,
+      "value": 0
+    },
+    {
+      "address": 121,
+      "value": 450
+    },
+    {
+      "address": 122,
+      "value": 450
+    },
+    {
+      "address": 123,
+      "value": 6912
+    },
+    {
+      "address": 124,
+      "value": 6912
+    },
+    {
+      "address": 125,
+      "value": 530
+    },
+    {
+      "address": 127,
+      "value": 18
+    },
+    {
+      "address": 128,
+      "value": 40
+    },
+    {
+      "address": 129,
+      "value": 750
+    },
+    {
+      "address": 131,
+      "value": 450
+    },
+    {
+      "address": 132,
+      "value": 1024
+    },
+    {
+      "address": 133,
+      "value": 300
+    },
+    {
+      "address": 134,
+      "value": 20
+    },
+    {
+      "address": 137,
+      "value": 0
+    },
+    {
+      "address": 145,
+      "value": 4
+    },
+    {
+      "address": 146,
+      "value": 1
+    },
+    {
+      "address": 147,
+      "value": 5120
+    },
+    {
+      "address": 148,
+      "value": 1228
+    },
+    {
+      "address": 149,
+      "value": 5529
+    },
+    {
+      "address": 150,
+      "value": 3072
+    },
+    {
+      "address": 152,
+      "value": 819
+    },
+    {
+      "address": 155,
+      "value": 5325
+    },
+    {
+      "address": 156,
+      "value": 0
+    },
+    {
+      "address": 157,
+      "value": 4096
+    },
+    {
+      "address": 158,
+      "value": 4096
+    },
+    {
+      "address": 159,
+      "value": 4096
+    },
+    {
+      "address": 160,
+      "value": 4096
+    },
+    {
+      "address": 161,
+      "value": 4096
+    },
+    {
+      "address": 162,
+      "value": 4096
+    },
+    {
+      "address": 163,
+      "value": 4096
+    },
+    {
+      "address": 164,
+      "value": 4096
+    },
+    {
+      "address": 165,
+      "value": 614
+    },
+    {
+      "address": 166,
+      "value": 860
+    },
+    {
+      "address": 167,
+      "value": 1065
+    },
+    {
+      "address": 168,
+      "value": 1434
+    },
+    {
+      "address": 169,
+      "value": 2130
+    },
+    {
+      "address": 170,
+      "value": 3850
+    },
+    {
+      "address": 171,
+      "value": 3850
+    },
+    {
+      "address": 172,
+      "value": 3850
+    },
+    {
+      "address": 173,
+      "value": 0
+    },
+    {
+      "address": 174,
+      "value": 192
+    },
+    {
+      "address": 175,
+      "value": 4096
+    },
+    {
+      "address": 176,
+      "value": 320
+    },
+    {
+      "address": 178,
+      "value": 3
+    },
+    {
+      "address": 179,
+      "value": 1024
+    },
+    {
+      "address": 180,
+      "value": 0
+    },
+    {
+      "address": 181,
+      "value": 512
+    },
+    {
+      "address": 182,
+      "value": 3280
+    },
+    {
+      "address": 193,
+      "value": 1
+    },
+    {
+      "address": 194,
+      "value": 5120
+    },
+    {
+      "address": 195,
+      "value": 5324
+    },
+    {
+      "address": 196,
+      "value": 0
+    },
+    {
+      "address": 202,
+      "value": 0
+    },
+    {
+      "address": 203,
+      "value": 0
+    },
+    {
+      "address": 204,
+      "value": 0
+    },
+    {
+      "address": 208,
+      "value": 2
+    },
+    {
+      "address": 209,
+      "value": 5
+    },
+    {
+      "address": 210,
+      "value": 0
+    },
+    {
+      "address": 212,
+      "value": 32
+    },
+    {
+      "address": 220,
+      "value": 20
+    },
+    {
+      "address": 221,
+      "value": 2000
+    },
+    {
+      "address": 222,
+      "value": 20
+    },
+    {
+      "address": 223,
+      "value": 4000
+    },
+    {
+      "address": 224,
+      "value": 4000
+    },
+    {
+      "address": 225,
+      "value": 1
+    },
+    {
+      "address": 226,
+      "value": 1792
+    },
+    {
+      "address": 227,
+      "value": 689
+    },
+    {
+      "address": 228,
+      "value": 256
+    },
+    {
+      "address": 229,
+      "value": 6912
+    },
+    {
+      "address": 230,
+      "value": 6912
+    },
+    {
+      "address": 231,
+      "value": 1
+    },
+    {
+      "address": 232,
+      "value": 300
+    },
+    {
+      "address": 233,
+      "value": 400
+    },
+    {
+      "address": 234,
+      "value": 36
+    },
+    {
+      "address": 235,
+      "value": 0
+    },
+    {
+      "address": 236,
+      "value": 6912
+    },
+    {
+      "address": 242,
+      "value": 0
+    },
+    {
+      "address": 243,
+      "value": 1311
+    },
+    {
+      "address": 247,
+      "value": 0
+    },
+    {
+      "address": 254,
+      "value": 10
+    },
+    {
+      "address": 1919,
+      "value": 258
+    },
+    {
+      "address": 1920,
+      "value": 6912
+    },
+    {
+      "address": 1921,
+      "value": 1024
+    },
+    {
+      "address": 1922,
+      "value": 615
+    },
+    {
+      "address": 1923,
+      "value": 0
+    },
+    {
+      "address": 1924,
+      "value": 0
+    },
+    {
+      "address": 1925,
+      "value": 0
+    },
+    {
+      "address": 1926,
+      "value": 0
+    },
+    {
+      "address": 1927,
+      "value": 0
+    },
+    {
+      "address": 1940,
+      "value": 400
+    },
+    {
+      "address": 1941,
+      "value": 768
+    },
+    {
+      "address": 1942,
+      "value": 960
+    },
+    {
+      "address": 1943,
+      "value": 400
+    },
+    {
+      "address": 1944,
+      "value": 960
+    },
+    {
+      "address": 1945,
+      "value": 65485
+    },
+    {
+      "address": 1946,
+      "value": 65535
+    }
+  ]
+}
