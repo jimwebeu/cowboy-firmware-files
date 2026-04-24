@@ -110,7 +110,7 @@ cockpit/
 ├── deployed/  CockpitFW_app_v2.3.0_deployed.bin
 └── frozen/    CockpitFW_app_v2.3.0_frozen.bin
 firmware/
-├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip
+├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip CowboyFW_A4-app-release-v4.22.7_deployed.zip
 └── frozen/    CowboyFW_A4-app-release-v4.21.10_frozen.zip
 ```
 </details>
@@ -123,7 +123,7 @@ cockpit/
 ├── deployed/  CockpitFW_app_v2.3.0_deployed.bin
 └── frozen/    CockpitFW_app_v2.3.0_frozen.bin
 firmware/
-├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip
+├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip CowboyFW_A4-app-release-v4.22.7_deployed.zip
 └── frozen/    CowboyFW_A4-app-release-v4.21.10_frozen.zip
 ```
 </details>
@@ -136,7 +136,7 @@ cockpit/
 ├── deployed/  CockpitFW_app_v2.3.0_deployed.bin
 └── frozen/    CockpitFW_app_v2.3.0_frozen.bin
 firmware/
-├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip
+├── deployed/  CowboyFW_A4-app-release-v4.21.5_deployed.zip CowboyFW_A4-app-release-v4.22.7_deployed.zip
 └── frozen/    CowboyFW_A4-app-release-v4.19.12_frozen.zip
 ```
 </details>
