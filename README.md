@@ -1,6 +1,7 @@
 # Cowboy Firmware Catalog
 
 ## Notice
+Flashing a firmware by yourself can be dangerous and might result in a bricked bike which will be costly to repair. Neither Cowboy or I will be responsible for that.
 
 This repository is an unofficial archive of Cowboy firmware and configuration
 files, maintained for research and preservation purposes. It is not affiliated
